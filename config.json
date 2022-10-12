@@ -1,0 +1,5 @@
+{
+    "weights_file": "/home/darknet/yolov4.weights",
+    "cfg_file": "/home/darknet/cfg/yolov4.cfg",
+    "obj_file": "/home/darknet/cfg/coco.data"
+}
